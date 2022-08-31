@@ -18,3 +18,15 @@ IP address: 10.0.0.3
  - #dns_default_ip 10.10.10.1 (dns_default_ip 10.0.0.3)
  - Exit nano: CTRL+O & CTRL+X
 
+# Basic static analysis
+
+##### Hashing malware samples
+- sha256sum.exe file
+- md5sum.exe file
+
+##### Strangs & FLOSS
+- floss file | floss -n 6 file for strings of 6 characters and more
+
+##### PEview
+##### PEStudio
+
